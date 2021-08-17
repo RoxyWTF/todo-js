@@ -27,4 +27,6 @@ git init
 npm run build
 git add .
 git commit -m "Primer commit"
+Enlazar el local con el de la nube:
+git remote add origin https://github.com/RoxyWTF/todo-js.git
 
